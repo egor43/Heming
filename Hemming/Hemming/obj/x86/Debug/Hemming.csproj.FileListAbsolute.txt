@@ -3,3 +3,8 @@ C:\Users\student\Desktop\Hemming\Hemming\bin\Debug\Hemming.pdb
 C:\Users\student\Desktop\Hemming\Hemming\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\student\Desktop\Hemming\Hemming\obj\x86\Debug\Hemming.exe
 C:\Users\student\Desktop\Hemming\Hemming\obj\x86\Debug\Hemming.pdb
+D:\Egor\GitRepository\Heming\Hemming\Hemming\obj\x86\Debug\Hemming.exe
+D:\Egor\GitRepository\Heming\Hemming\Hemming\obj\x86\Debug\Hemming.pdb
+D:\Egor\GitRepository\Heming\Hemming\Hemming\bin\Debug\Hemming.exe
+D:\Egor\GitRepository\Heming\Hemming\Hemming\bin\Debug\Hemming.pdb
+D:\Egor\GitRepository\Heming\Hemming\Hemming\obj\x86\Debug\Hemming.csprojResolveAssemblyReference.cache
